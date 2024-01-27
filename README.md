@@ -1,5 +1,4 @@
-#  :seedling:Chimara Okeke 
-**`Digital Craftswoman (Data analyst/Front-ender/Aspiring PM)`**
+##  :seedling: **`Digital Craftswoman/Aspiring Data Analyst/Front-Ender`**
 <br>
 
 ![](https://github.com/Echimara/Echimara/blob/main/giphy.gif)
