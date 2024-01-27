@@ -3,7 +3,7 @@
 
 ![](https://github.com/Echimara/Echimara/blob/main/giphy.gif)
 
-I'm a senior IT student with an avid passion for web development and mathematics. I enjoy documentation, project management, and exploring new and random topics in my spare time. What am I currently up to you may not be wondering? I'm studying up the bits and bobs of becoming a data analyst.
+I'm a senior IT student with an avid passion for web development and mathematics. I enjoy documentation, project management, and exploring new and random topics in my spare time. What am I currently up to you may not be wondering? I'm studying the bits and bobs of becoming a data analyst. Why? To assess consumer culture on a certain platform like Instagram shop: the topic of consumerism fascinates me.
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
