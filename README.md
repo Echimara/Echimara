@@ -43,8 +43,18 @@ I'm a senior IT student with an avid passion for web development and mathematics
 </div>
 
 #
+ <a href="https://github.com/Echimara/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echimara&layout=compact" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/Echimara/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Echimara&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+  </a>
+ 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echimara&show_icons=true&theme=cobalt)
-
+<br><br><br><br><br><br><br><br><br><br>
 ## :sunrise_over_mountains: **`Chi's Coding Journey`**
-What can I say? I used to see coding/programming as some grueling time-kill that social pariahs engaged in as they sipped on their 5th energy drink in a dark corner. To my delight, coding is much more than that. Its applications are boundless in life, paving the way for expression, problem-solving, and innovation. There truly is something for everyone: beginner-friendly, sage-level, fun-seekers, and all the in-betweens. As I recall, two events solidified my love for code: hackathons and the Odin project. The sheer knowledge and varying insights that hackathons offer far surpass any classroom. As for [the Odin project](https://github.com/TheOdinProject), it amazed me how many intricate details and tidbits Erik and his team were able to share with us *odinites*. Big ups to them. 
+  What can I say? I used to see coding/programming as some grueling time-kill that social pariahs engaged in as they sipped on their 5th energy drink in a dark corner. To my delight, coding is much more than that. Its applications are boundless in life, paving the way for expression, problem-solving, and innovation. There truly is something for everyone: beginner-friendly, sage-level, fun-seekers, and all the in-betweens. As I recall, two events solidified my love for code: hackathons and the Odin project. The sheer knowledge and varying insights that hackathons offer far surpass any classroom. As for [the Odin project](https://github.com/TheOdinProject), it amazed me how many intricate details and tidbits Erik and his team were able to share with us *odinites*. Big ups to them.
+
+
+
+
