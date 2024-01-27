@@ -1,7 +1,8 @@
 # Chimara Okeke 
-
 **`Digital Craftswoman (Data analyst/Front-ender/Aspiring PM)`**
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+<br>
+
+![](https://github.com/Echimara/Echimara/blob/main/giphy.gif)
 
 I'm a senior IT student with an avid passion for web development and mathematics. I enjoy documentation, project management, and exploring new and random topics in my spare time. One of my honorable mentions is the Odin project.
 
