@@ -15,7 +15,6 @@ I'm a senior IT student with an avid passion for web development and mathematics
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Echimara?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
 </a>
 
-# 
 
 ## :moyai:Languages and Tools
 <div style="display: flex;">
