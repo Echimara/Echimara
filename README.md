@@ -12,14 +12,14 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 -->
-<p align="center">
+<p align="right">
     <img src="https://github.com/Echimara/Echimara/blob/main/giphy.gif" alt="Animated GIF">
 </p>
 
 
 <!--Start Intro-->  
 <div>
-  <p align="left">I'm a senior IT student with an avid passion for web development and mathematics. I enjoy documentation, project management, and exploring new and random topics in my spare time. What am I currently up to you may not be wondering? I'm studying the bits and bobs of becoming a data analyst. Why? To assess consumer culture on a certain platform like Instagram shop or "Tiktok shop": the topic of consumerism fascinates me.</p>
+  <p align="left">I'm a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new and random topics<br> in my spare time. What am I currently up to you may not be wondering? I'm studying<br> the bits and bobs of becoming a data analyst. Why? To assess consumer culture on a<br> certain platform like Instagram shop or "Tiktok shop": the topic of consumerism <br>fascinates me.</p>
 </div>
 
 
