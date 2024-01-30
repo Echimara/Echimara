@@ -12,7 +12,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 -->
-<p align="right">
+<p align="left">
     <img src="https://github.com/Echimara/Echimara/blob/main/giphy.gif" alt="Animated GIF">
 </p>
 
