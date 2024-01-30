@@ -1,5 +1,6 @@
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Chi
+<h2 align="left">Hi, I'm Chi☄️</h2> 
+
 *Virtual Artisan & Aspiring Data Analyst*
 <br /> 
 <br>
@@ -7,18 +8,15 @@
 <p align="center">
     <img src="https://github.com/Echimara/Echimara/blob/main/giphy.gif" alt="Animated GIF">
 </p>
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 <!--Start Intro-->               
 <p align="left">I'm a senior IT student with an avid passion for web development and mathematics. I enjoy documentation, project management, and exploring new and random topics in my spare time. What am I currently up to you may not be wondering? I'm studying the bits and bobs of becoming a data analyst. Why? To assess consumer culture on a certain platform like Instagram shop or "Tiktok shop": the topic of consumerism fascinates me.</p>
 
-
-
-
-
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 
 <!--Languages and Tools Section-->       
@@ -88,24 +86,25 @@
 
 ---
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
+
+
+
+<!--STARTS_HERE_QUOTE_CARD
+<!--Dynamic Quote card updated everyday at 12 PM
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Chinua%20Achebe&quote=There%20is%20no%20story%20that%20is%20not%20true%2C%20the%20world%20has%20no%20end%2C%20and%20what%20is%20good%20among%20one%20people%20is%20an%20abomination%20with%20others.%20We%20have%20to%20learn%20to%20see%20the%20world%20through%20each%20other’s%20eyes.%20The%20only%20end%20of%20writing%20is%20to%20enable%20the%20readers%20better%20to%20see.%20We%20must%20each%20find%20our%20separate%20meaning%20in%20our%20shared%20traditions.%22&bear=ffffff&bg_color=1c0a73&author_color=a19425">
 </p>
 
-
+-->
 
 
 
 <!--ENDS_HERE_QUOTE_CARD-->
 
+<h2 align="center">🌄 Chi's Coding Journey 🌄 </h2>
 
-## :sunrise_over_mountains: **`Chi's Coding Journey`**
-  What can I say? I used to see coding/programming as some grueling time-kill that social pariahs engaged in as they sipped on their 5th energy drink in a dark corner. To my delight, coding is much more than that. Its applications are boundless in life, paving the way for expression, problem-solving, and innovation. There truly is something for everyone: beginner-friendly, sage-tier, fun-seekers, and all the in-betweens. As I recall, two events solidified my love for code: hackathons and the Odin project. The sheer knowledge and varying insights that hackathons offer far surpass any classroom. As for [the Odin project](https://github.com/TheOdinProject), it amazed me how many intricate details and tidbits Erik and his team were able to share with us *odinites*. Big ups to them.
+What can I say? I used to see coding/programming as some grueling time-kill that social pariahs engaged in as they sipped on their 5th energy drink in a dark corner (I kid). To my delight, coding is much more than that. Its applications are boundless in life, paving the way for expression, problem-solving, and innovation. There truly is something for everyone: beginner-friendly, sage-tier, fun-seekers, and all the in-betweens. As I recall, two events solidified my love for code: hackathons and the Odin project. The sheer knowledge and varying insights that hackathons offer far surpass any classroom. As for [the Odin project](https://github.com/TheOdinProject), it amazed me how many intricate details and tidbits Erik and his team were able to share with us *odinites*. Big ups to them.
 
 <br>
 
