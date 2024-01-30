@@ -1,9 +1,9 @@
 <!--Banner-->
 ![Echimara Banner Image](./banner.png)
 
-<!--Header Name-->
+<!--Header Name
 <h2 align="left">Hi, I'm Chi☄️</h2> 
-
+-->
 *Virtual Artisan & Aspiring Data Analyst*
 <br /> 
 <br>
