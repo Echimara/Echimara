@@ -1,9 +1,10 @@
-<!--Banner-->
+<!--Banner
 ![Echimara Banner Image](./banner.png)
-
-<!--Header Name
-<h2 align="left">Hi, I'm Chi☄️</h2> 
 -->
+
+<!--Header Name-->
+<h2 align="left">Hi, I'm Chi☄️</h2> 
+
 *Virtual Artisan & Aspiring Data Analyst*
 <br /> 
 <br>
@@ -43,14 +44,13 @@
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
 <table width="100%">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="left">
+      <p align="center">
         <a href="https://github.com/Echimara">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Echimara&count_private=true&show_icons=true&theme=outrun" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Echimara&&rank_icon=github&theme=merko" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -60,28 +60,29 @@
         <a href="https://github.com/Echimara">
           <img align="center" src="https://streak-stats.demolab.com?user=Echimara&theme=neon" alt="Streak Stats" />
         </a>
-     </p>
+      </p>
     </td>
   </tr>
-<!--   <tr>
+  <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Lᴀnguages</strong></h3>
       <p align="center">
         <a href="https://github.com/Echimara">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Echimara&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echimara&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
         </a>
       </p>
-    </td> -->
+    </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Echimara">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Echimara&limit=3&theme=algolia&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Echimara&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 <br />
 
 <!--Contribution Graph-->
