@@ -13,18 +13,18 @@
 <!--Start Intro-->               
 <p align="left">I'm a senior IT student with an avid passion for web development and mathematics. I enjoy documentation, project management, and exploring new and random topics in my spare time. What am I currently up to you may not be wondering? I'm studying the bits and bobs of becoming a data analyst. Why? To assess consumer culture on a certain platform like Instagram shop or "Tiktok shop": the topic of consumerism fascinates me.</p>
 
-<!--Night Owl image-->
-<div>
+<!-- Owl Image -->
+<div align="right">
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+<!-- Languages and Tools Section -->
+<h2 align="left">🗿 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 
-<!--Languages and Tools Section-->       
-<h2 align="center">🗿 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,bootstrap,bash,aws,figma,discord,gcp,kotlin,php,r,sass,react,nodejs,mysql,postgres,git,vscode,wordpress,aws,postman,linux,stackoverflow&perline=10"  />
+<p align="left">
+  <img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,bootstrap,bash,aws,figma,discord,gcp,kotlin,php,r,sass,react,nodejs,mysql,postgres,git,vscode,wordpress,aws,postman,linux,stackoverflow&perline=10" />
 </p>
-<br />
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
