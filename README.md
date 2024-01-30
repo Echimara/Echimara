@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>:seedling: <strong><code>Digital Craftswoman/Aspiring Data Analyst/Front-Ender</code></strong></h2>
+  <h2>:seedling: <strong><code>Digital Craftswoman & Aspiring Data Analyst</code></strong></h2>
 </p>
 
 <br>
