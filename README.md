@@ -50,7 +50,7 @@ I'm a senior IT student with an avid passion for web development and mathematics
 
 <br>
 <div style="text-align: center;">
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Echimara&theme=dark" alt="Echimara" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Echimara&theme=outrun" alt="Echimara" /></p>
 </div>
 
 <br>
