@@ -64,12 +64,17 @@ I'm a senior IT student with an avid passion for web development and mathematics
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-  <a href="https://github.com/Echimara?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Echimara?color=yellow&style=for-the-badge&labelColor=orange&logo=star"/>
-</a>
-<a href="https://github.com/Echimara?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Echimara?color=brown&labelColor=purple&style=for-the-badge&logo=person-add&label=Allegiance (Following)&logoColor=white"/>
-</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Echimara&label=Profile%20views&color=blue&style=social" alt="Echimara" /> </p>
+<!--ChatGPT the ting-->
+<div align="center">
+    <a href="https://github.com/Echimara?tab=repositories">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Echimara?color=yellow&style=for-the-badge&labelColor=orange&logo=star"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Echimara?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Echimara?color=brown&labelColor=purple&style=for-the-badge&logo=person-add&label=Allegiance (Following)&logoColor=white"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Echimara&label=Profile%20views&color=blue&style=for-the-badge" alt="Echimara" />
+</div>
 
 
