@@ -141,11 +141,11 @@ What can I say? I used to see coding/programming as some grueling time-kill that
 <a href="mailto:chimaraokekee@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-b00707?style=for-the-badge&logo=gmail&logoColor=white" alt=chimaraokekee@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-
+<!--
 <a href="https://www.instagram.com/chimara_okeke/" target="_blank">
 <img src=https://img.shields.io/badge/IG-ba1c9d?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
-
+-->
 <br/>
 
 
