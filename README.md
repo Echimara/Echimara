@@ -1,3 +1,6 @@
+<!--Banner-->
+![Echimara Banner Image](./banner.png)
+
 <!--Header Name-->
 <h2 align="left">Hi, I'm Chi☄️</h2> 
 
