@@ -94,8 +94,13 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Watts&quote=This%20is%20the%20real%20secret%20of%20life%20-%20to%20be%20completely%20engaged%20with%20what%20you%20are%20doing%20in%20the%20here%20and%20now.%20And%20instead%20of%20calling%20it%20work%2C%20realize%20it%20is%20play.&theme=dark&bg_color=011627&author_color=ffeb95">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinua%20Achebe&quote=There%20is%20no%20story%20that%20is%20not%20true%2C%20the%20world%20has%20no%20end%2C%20and%20what%20is%20good%20among%20one%20people%20is%20an%20abomination%20with%20others.%20We%20have%20to%20learn%20to%20see%20the%20world%20through%20each%20other’s%20eyes.%20The%20only%20end%20of%20writing%20is%20to%20enable%20the%20readers%20better%20to%20see.%20We%20must%20each%20find%20our%20separate%20meaning%20in%20our%20shared%20traditions.%22&bear=ffffff&bg_color=1c0a73&author_color=a19425">
 </p>
+
+
+
+
+
 <!--ENDS_HERE_QUOTE_CARD-->
 
 
@@ -125,15 +130,15 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/chimara-okeke/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-1c4eba.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:chimaraokekee@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=chimaraokekee@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-b00707?style=for-the-badge&logo=gmail&logoColor=white" alt=chimaraokekee@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/chimara_okeke/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/IG-ba1c9d?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
 </a>
 
 <br/>
