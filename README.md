@@ -44,8 +44,10 @@ I'm a senior IT student with an avid passion for web development and mathematics
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echimara&layout=compact" />
 </a>
 <a href="https://github.com/Echimara/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Echimara&show_icons=true&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Echimara&show_icons=true&theme=neon" />
 </a>
+</p>
+
 <br>
 <div style="text-align: center;">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Echimara&theme=dark" alt="Echimara" /></p>
