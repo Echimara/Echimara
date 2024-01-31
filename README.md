@@ -3,7 +3,7 @@
 -->
 
 <!--Header Name-->
-<h2 align="left">Hi, I'm Chi☄️</h2> 
+<h2 align="left">Hi, I'm Chi 🥸</h2> 
 
 *Virtual Artisan & Aspiring Data Analyst*
 <br /> 
