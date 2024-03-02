@@ -3,9 +3,9 @@
 -->
 
 <!--Header Name-->
-<h2 align="left">Hi, I'm Chi 🥸</h2> 
+<h2 align="center">Hi, I'm Chi 🥸</h2> 
 
-*Virtual Artisan & Aspiring Data Analyst*
+<h3 align="center" style="font-family: Arial, sans-serif; font-style: italic;">Virtual Artisan & Aspiring Data Analyst</h3>
 <br /> 
 <br>
 <!-- Owl Image 
@@ -13,18 +13,18 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 -->
-<p align="left">
+<p align="center">
     <img src="https://github.com/Echimara/Echimara/blob/main/giphy.gif" alt="Animated GIF">
 </p>
 
 
 <!--Start Intro-->  
 <div>
-  <p align="left">I'm a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new and random topics<br> in my spare time. What am I currently up to you may not be wondering? I'm studying<br> the bits and bobs of becoming a data analyst. Why? To assess consumer culture on a<br> certain platform like Instagram shop or "Tiktok shop": the topic of consumerism <br>fascinates me.</p>
+  <p align="center">I'm a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new and random topics<br> in my spare time. What am I currently up to you may not be wondering? I'm studying<br> the bits and bobs of becoming a data analyst. Why? To assess consumer culture on a<br> certain platform like Instagram shop or "Tiktok shop": the topic of consumerism <br>fascinates me.</p>
 </div>
 
 
-
+<br>
 <!-- Languages and Tools Section -->
 <h2 align="center">🗿 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🗿</h2> 
 
@@ -32,6 +32,7 @@
   <img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,bootstrap,bash,aws,figma,discord,gcp,php,r,react,nodejs,mysql,postgres,git,vscode,wordpress,aws,postman,linux,stackoverflow&perline=10" />
 </p>
 
+<br>
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -40,7 +41,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Echimara&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
+
 <br />
+
+<br>
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -83,7 +87,7 @@
   </tr>
 </table>
 
-<br />
+<br>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -106,7 +110,7 @@
 -->
 
 
-
+<br>
 <!--ENDS_HERE_QUOTE_CARD-->
 
 <h2 align="center">🌄 Chi's Coding Journey 🌄 </h2>
