@@ -29,7 +29,7 @@
 <h2 align="center">🗿 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🗿</h2> 
 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,bootstrap,bash,aws,figma,discord,gcp,php,r,react,nodejs,mysql,postgres,git,vscode,wordpress,aws,postman,linux,stackoverflow&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,bootstrap,bash,aws,figma,discord,gcp,php,r,react,nodejs,mysql,postgres,git,vscode,wordpress,aws,postman,kali,linux,stackoverflow&perline=10" />
 </p>
 
 <br>
