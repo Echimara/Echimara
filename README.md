@@ -48,7 +48,7 @@
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
@@ -58,16 +58,6 @@
         </a>
       </p>
     </td>
-<!--     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Echimara">
-          <img align="center" src="https://streak-stats.demolab.com?user=Echimara&theme=neon" alt="Streak Stats" />
-        </a>
-      </p>
-    </td> -->
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀnguages</strong></h3>
       <p align="center">
@@ -76,14 +66,6 @@
         </a>
       </p>
     </td>
-<!--     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Echimara">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Echimara&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
-        </a>
-      </p>
-    </td> -->
   </tr>
 </table>
 
