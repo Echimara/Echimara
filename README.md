@@ -54,18 +54,18 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Echimara">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Echimara&&rank_icon=github&theme=merko" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Echimara&&rank_icon=github&theme=merko" alt="GitHub Stats" />
         </a>
       </p>
     </td>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Echimara">
           <img align="center" src="https://streak-stats.demolab.com?user=Echimara&theme=neon" alt="Streak Stats" />
         </a>
       </p>
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td width="50%">
@@ -76,16 +76,17 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+<!--     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Echimara">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Echimara&limit=3&theme=midnight-purple&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions" />
         </a>
       </p>
-    </td>
+    </td> -->
   </tr>
 </table>
+
 
 <br>
 
