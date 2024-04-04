@@ -20,7 +20,7 @@
 
 <!--Start Intro-->  
 <div>
-  <p align="center">I'm a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new and random topics in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like Instagram shop or "Tiktok shop":  <br>the topic of consumerism fascinates me.</p>
+  <p align="center">I'm a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new and random topics in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like Instagram shop or "Tiktok shop":  <br> The topic of consumerism fascinates me.</p>
 </div>
 
 
@@ -84,7 +84,7 @@
 
 
 <!--STARTS_HERE_QUOTE_CARD
-<!--Dynamic Quote card updated everyday at 12 PM
+<!--Dynamic Quote card updated every day at 12 PM
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Chinua%20Achebe&quote=There%20is%20no%20story%20that%20is%20not%20true%2C%20the%20world%20has%20no%20end%2C%20and%20what%20is%20good%20among%20one%20people%20is%20an%20abomination%20with%20others.%20We%20have%20to%20learn%20to%20see%20the%20world%20through%20each%20other’s%20eyes.%20The%20only%20end%20of%20writing%20is%20to%20enable%20the%20readers%20better%20to%20see.%20We%20must%20each%20find%20our%20separate%20meaning%20in%20our%20shared%20traditions.%22&bear=ffffff&bg_color=1c0a73&author_color=a19425">
