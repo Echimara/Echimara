@@ -8,11 +8,7 @@
 <h3 align="center" style="font-family: Arial, sans-serif; font-style: italic;">Virtual Artisan & Aspiring Employed Person</h3>
 <br /> 
 <br>
-<!-- Owl Image 
-<div align="right">
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
--->
+
 <p align="center">
     <img src="https://github.com/Echimara/Echimara/blob/main/giphy.gif" alt="Animated GIF">
 </p>
