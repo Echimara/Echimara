@@ -106,10 +106,7 @@ What can I say? I used to see coding/programming as some grueling time-kill that
     <a href="https://github.com/Echimara?tab=repositories">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Echimara?color=yellow&style=for-the-badge&labelColor=orange&logo=star"/>
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Echimara?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Echimara?color=brown&labelColor=purple&style=for-the-badge&logo=person-add&label=Allegiance (Following)&logoColor=white"/>
-    </a>
+ </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://komarev.com/ghpvc/?username=Echimara&label=Profile%20views&color=blue&style=for-the-badge" alt="Echimara" />
 </div>
