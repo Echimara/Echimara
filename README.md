@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github.com/Echimara/Echimara/blob/main/giphy.gif" alt="Animated GIF">
+    <img src="https://github.com/Echimara/Echimara/blob/main/hello.gif" alt="Animated GIF">
 </p>
 
 
