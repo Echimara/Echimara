@@ -119,11 +119,6 @@ What can I say? I used to see coding/programming as some grueling time-kill that
 <img src=https://img.shields.io/badge/linkedin-1c4eba.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:chimaraokekee@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-b00707?style=for-the-badge&logo=gmail&logoColor=white" alt=chimaraokekee@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-[![Chimara Okeke](https://img.shields.io/badge/Site-1b7339?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/chimara-okeke/)
 
 <br/>
 
