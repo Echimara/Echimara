@@ -3,7 +3,7 @@
 -->
 
 <!--Header Name-->
-<h2 align="center">Hi, I'm Chi 🥸</h2> 
+<!-- h2 align="center">Hi, I'm Chi 🥸</h2> -->
 
 <h3 align="center" style="font-family: Arial, sans-serif; font-style: italic;">Virtual Artisan & Aspiring Employed Person</h3>
 <br /> 
