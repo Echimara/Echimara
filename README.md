@@ -6,13 +6,6 @@
 <!-- h2 align="center">Hi, I'm Chi 🥸</h2> -->
 
 <h3 align="center" style="font-family: Arial, sans-serif; font-style: italic;">Virtual Artisan & IT Professional</h3>
-<br /> 
-<br>
-
-<p align="center">
-    <img src="https://github.com/Echimara/Echimara/blob/main/hello" alt="Animated GIF" style="width: 30%;">
-</p>
-
 
 <!--Start Intro-->  
 <div>
