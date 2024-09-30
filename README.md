@@ -88,7 +88,7 @@
 
 <h2 align="center">🌄 Chi's Coding Journey 🌄 </h2>
 
-What can I say? I used to see coding/programming as some grueling time-kill that social pariahs engaged in as they sipped on their 5th energy drink in a dark corner (I kid). To my delight, coding is much more than that. Its applications are boundless in life, paving the way for expression, problem-solving, and innovation. There truly is something for everyone: beginner-friendly, sage-tier, fun-seekers, and all the in-betweens. As I recall, two events solidified my love for code: hackathons and the Odin project. The sheer knowledge and varying insights that hackathons offer far surpass any classroom. As for [the Odin project](https://github.com/TheOdinProject), it amazed me how many intricate details and tidbits Erik and his team were able to share with us *odinites*. Big ups to them.
+Coding is tubular. Its applications are boundless in life, paving the way for expression, problem-solving, and innovation. There truly is something for everyone: beginner-friendly, sage-tier, fun-seekers, and all the in-betweens. Two events got me into coding: hackathons and the Odin project. The sheer knowledge and insights I got from hackathons were surprising. As for [the Odin project](https://github.com/TheOdinProject), it amazed me how many intricate details and tidbits Erik and his team were able to share with us *odinites*. Big ups to them.
 
 <br>
 
