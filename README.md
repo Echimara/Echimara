@@ -1,6 +1,5 @@
 
-<h2 align="center"> Hey! I'm Chi 🥸</h2> 
-
+<h2 align="center" style="font-size: 100px;">🥸 Hey! I'm Chi 🥸</h2>
 <!--Start Intro-->  
 <div>
   <p align="center">I'm a senior IT student with an avid passion for web development and mathematics.<br> I like documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
@@ -9,23 +8,11 @@
 
 <br>
 <!-- Languages and Tools Section -->
-<h2 align="center">🗿 Tech Stack 🗿</h2> 
+<h2 align="center" width="1200px">😌 Tech Stack 😌</h2> 
 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,bootstrap,bash,aws,figma,php,react,nodejs,postgres,git,vscode,wordpress,kali,linux&perline=10" />
+  <img width="800px" src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,bootstrap,bash,aws,figma,php,react,nodejs,postgres,git,vscode,wordpress,kali,linux&perline=10" />
 </p>
-
-<br>
-
-<!--Trophies Section
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Echimara/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Echimara&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
--->   
 
 <br>
 
@@ -38,9 +25,6 @@
         </a>
       </p>
     </td>
-
-
-
 <br>
 
 
