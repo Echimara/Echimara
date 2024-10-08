@@ -9,7 +9,7 @@
 
 <!--Start Intro-->  
 <div>
-  <p align="center">I'm Chi. A senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
+  <p align="center">I'm Chi, a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
 </div>
 
 
