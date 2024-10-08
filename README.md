@@ -1,24 +1,18 @@
-<!--Banner
-![Echimara Banner Image](./banner.png)
--->
 
-<!--Header Name-->
-<!-- h2 align="center">Hi, I'm Chi 🥸</h2> -->
-
-<h3 align="center" style="font-family: Arial, sans-serif; font-style: italic;">Hi!</h3>
+<h2 align="center"> Hey! I'm Chi 🥸</h2> 
 
 <!--Start Intro-->  
 <div>
-  <p align="center">I'm Chi, a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
+  <p align="center">I'm a senior IT student with an avid passion for web development and mathematics.<br> I like documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
 </div>
 
 
 <br>
 <!-- Languages and Tools Section -->
-<h2 align="center">🗿 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs 🗿</h2> 
+<h2 align="center">🗿 Tech Stack 🗿</h2> 
 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,bootstrap,bash,aws,figma,discord,gcp,php,r,react,nodejs,mysql,postgres,git,vscode,wordpress,postman,kali,linux,stackoverflow&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,bootstrap,bash,aws,figma,php,react,nodejs,postgres,git,vscode,wordpress,kali,linux&perline=10" />
 </p>
 
 <br>
@@ -36,55 +30,20 @@
 <br>
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tr>
+<h2 align="center">📊 Sᴛᴀᴛs 📊</h2>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Echimara">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Echimara&&rank_icon=github&theme=merko" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀnguages</strong></h3>
       <p align="center">
         <a href="https://github.com/Echimara">
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echimara&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
         </a>
       </p>
     </td>
-  </tr>
-</table>
+
 
 
 <br>
 
-<!--Contribution Graph
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Echimara&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
--->
-</div>
 
----
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD
-<!--Dynamic Quote card updated every day at 12 PM
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinua%20Achebe&quote=There%20is%20no%20story%20that%20is%20not%20true%2C%20the%20world%20has%20no%20end%2C%20and%20what%20is%20good%20among%20one%20people%20is%20an%20abomination%20with%20others.%20We%20have%20to%20learn%20to%20see%20the%20world%20through%20each%20other’s%20eyes.%20The%20only%20end%20of%20writing%20is%20to%20enable%20the%20readers%20better%20to%20see.%20We%20must%20each%20find%20our%20separate%20meaning%20in%20our%20shared%20traditions.%22&bear=ffffff&bg_color=1c0a73&author_color=a19425">
-</p>
-
--->
-
-
-<br>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 <h2 align="center">🌄 Chi's Coding Journey 🌄 </h2>
 
@@ -92,10 +51,6 @@ Coding is tubular. Its applications are boundless in life, paving the way for ex
 
 <br>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<!--ChatGPT the ting-->
 <div align="center">
  
  </a>
