@@ -5,11 +5,11 @@
 <!--Header Name-->
 <!-- h2 align="center">Hi, I'm Chi 🥸</h2> -->
 
-<h3 align="center" style="font-family: Arial, sans-serif; font-style: italic;">Virtual Artisan & IT Professional</h3>
+<h3 align="center" style="font-family: Arial, sans-serif; font-style: italic;">Hi!</h3>
 
 <!--Start Intro-->  
 <div>
-  <p align="center">I'm a senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
+  <p align="center">I'm Chi. A senior IT student with an avid passion for web development and mathematics.<br> I enjoy documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
 </div>
 
 
