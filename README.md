@@ -1,10 +1,6 @@
 
-<h2 align="center" style="font-size: 100px;">🌱 Hi 🌱</h2>
+<h2 align="left" style="font-size: 100px;">🌱 Hi, I'm Chi 🌱</h2>
 <!--Start Intro-->  
-<div>
-  <p align="center">I'm a senior IT student with an avid passion for web development and mathematics.<br> I like documentation, project management, and exploring new subjects in my spare time. <br> What am I up to right now? I'm studying the bits and bobs of becoming a data analyst.  <br>Why? To assess consumer culture on  platforms like <em>Instagram shop</em> and <em>Tiktok shop</em>.  <br> The topic of consumerism fascinates me.</p>
-</div>
-
 
 <br>
 <!-- Languages and Tools Section -->
