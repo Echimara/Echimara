@@ -6,7 +6,7 @@
 <!-- Languages and Tools Section -->
 <h2 align="right" width="800px">😌 Tech Stack 😌</h2> 
 
-<p align="left">
+<p align="center">
   <img width="600px" src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,bootstrap,bash,aws,figma,php,react,nodejs,postgres,git,vscode,wordpress,kali,linux&perline=10" />
 </p>
 
