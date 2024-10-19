@@ -4,16 +4,16 @@
 
 <br>
 <!-- Languages and Tools Section -->
-<h2 align="center" width="1200px">😌 Tech Stack 😌</h2> 
+<h2 align="right" width="1200px">😌 Tech Stack 😌</h2> 
 
-<p align="center">
+<p align="left">
   <img width="800px" src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,bootstrap,bash,aws,figma,php,react,nodejs,postgres,git,vscode,wordpress,kali,linux&perline=10" />
 </p>
 
 <br>
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Sᴛᴀᴛs 📊</h2>
+<h2 align="right">📊 Sᴛᴀᴛs 📊</h2>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/Echimara">
