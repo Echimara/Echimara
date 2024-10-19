@@ -13,7 +13,7 @@
 <br>
 
 <!--Github stats Table--> 
-<h2 align="right">📊 Sᴛᴀᴛs 📊</h2>
+<h2 align="left">📊 Sᴛᴀᴛs 📊</h2>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/Echimara">
