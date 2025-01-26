@@ -2,7 +2,7 @@
 <h2 align="center" style="font-size: 100px;"> Hey 👋</h2>
 <!--Start Intro-->  
 <p align="center">
-  I'm Chi, a recent IT graduate who is passionate about UX deisgn and research. 
+  I'm Chi, a recent IT graduate who is passionate about UX design and research. 
 </p>
 
 <br>
