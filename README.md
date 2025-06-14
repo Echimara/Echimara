@@ -2,7 +2,7 @@
 <h2 align="center" style="font-size: 100px;"> Hey 👋</h2>
 <!--Start Intro-->  
 <p align="center">
-  I'm an IT generalist who is passionate about inclusive UX design + research. 
+As a UX designer and researcher, I specialize in user-centered design for web and mobile applications—driving intuitive and accessible experiences through design thinking, user research, and agile iterations. I appreciate the beauty and impact of simple, intuitive design, so I focus on creating digital solutions that welcome users rather than overwhelm them.
 </p>
 
 <br>
