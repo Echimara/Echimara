@@ -1,9 +1,8 @@
 
-<h2 align="center" style="font-size: 100px;"> Hey 👋</h2>
+<h2 align="center" style="font-size: 100px;"> Hi, I'm Chi 👋</h2>
 <!--Start Intro-->  
 <p align="center">
-As a UX designer and researcher, I specialize in user-centered design for web and mobile applications—driving intuitive and accessible experiences through design thinking, user research, and agile iterations. I appreciate the beauty and impact of simple, intuitive design, so I focus on creating digital solutions that welcome users rather than overwhelm them.
-</p>
+I believe in taking an action-oriented approach to solving user pain points. I organize my thoughts around the big picture, considering how each piece of a project interconnects to complete the final puzzle.</p>
 
 <br>
 <!-- Languages and Tools Section -->
