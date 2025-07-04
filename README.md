@@ -9,7 +9,7 @@ I believe in taking an action-oriented approach to solving user pain points. I o
 <h2 align="center" width="800px">✎ Tech Stack </h2> 
 
 <p align="center">
-  <img width="600px" src="https://skillicons.dev/icons?i=vscode,powershell,firebase,gcp,cpp,js,html,css,bootstrap,bash,aws,figma,regex,react,nodejs,postgres,git,vscode,notion,wordpress,kali,windows,linux&perline=10" />
+  <img width="600px" src="https://skillicons.dev/icons?i=notion,vscode,powershell,gcp,cpp,js,html,css,bash,aws,figma,regex,postgres,git,vscode,wordpress,kali,windows,linux&perline=10" />
 </p>
 
 <br>
