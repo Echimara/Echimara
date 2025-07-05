@@ -2,9 +2,13 @@
 <h2 align="center" style="font-size: 100px;"> Hi, I'm Chi 👋</h2>
 <!--Start Intro-->  
 <p align="center">
-I believe in taking an action-oriented approach to solving user pain points. I organize my thoughts around the big picture, considering how each piece of a project interconnects to complete the final puzzle.</p>
+Welcome to my GitHub page.
 
+  
 <br>
+<br>
+<br>
+
 <!-- Languages and Tools Section -->
 <h2 align="center" width="800px">✎ Tech Stack </h2> 
 
